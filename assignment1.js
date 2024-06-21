@@ -118,11 +118,12 @@ const people = [
   
 //   print/log the work place for the thrid person(Charlse)
 
-
+console.log( people[2].work.company );
 // log the name of Felix's sibling
-
+console.log(people[5].siblings[0].name  );
 // log the second school that Diana went to
-
+console.log( people[3].schools[1] );
 // the age of the youngest person
-
+console.log( people[5].age );
 // log the number of Glady's siblings   
+console.log(people[6].siblings.length );

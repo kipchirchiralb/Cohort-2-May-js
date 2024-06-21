@@ -7,7 +7,7 @@
 // functions -- scope
 // operators
 // conditional statements and loops ---- (control structures)
-// array and string methods ()
+// array and string methods () -- 
 
 var NameTwo 
 var _namE2 
