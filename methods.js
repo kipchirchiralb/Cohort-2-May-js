@@ -20,4 +20,4 @@ user.log(803203293923928)
 // js data types- string, number and array , have methods built into their global objects String, Number,Array that allow for manipulation of this data
 // exmaple: string method-> charAt(index)
 
-// EXPLORE  String methods and Array Methods in js
+// EXPLORE  String methods and Array Methods in jss

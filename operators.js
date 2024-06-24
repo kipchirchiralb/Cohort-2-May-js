@@ -1,4 +1,4 @@
-/// operators -- arithmetics + - * / ** % , comparison operators > < >= <= == ==== , logical operators AND && , OR  ||
+/// operators -- arithmetics + - * / ** % , comparison operators > < >= <= == ==== , logical operators AND && , OR  ||. ! NOT
 
 console.log(54*2); // multiplication
 console.log(54+2); //adition
@@ -18,3 +18,5 @@ console.log(10==="10"); // false -- strict equality check --- consider data type
 // String concatenation () --- - template literals ```${}
 console.log( (9<4 || 4>2) && 7<8 );// true
 console.log( "egg"=="egg" || 9>10 );
+
+
