@@ -25,6 +25,13 @@ if(mark<0 || mark > 100){
     console.log("Grade: E");
 }
 // TASK 1: - Re-do this grading system using js switch statement
+switch(true){
+    case mark <0 || mark>100:
+        console.log("Invalid mark")
+        break;
+    case mark > 75:
+        console.log("GRADE A")
+}
 
 
 // Loops / Iterators -- for loop, while loop, do while loop
@@ -43,4 +50,6 @@ for(let studentNumber = 12; studentNumber<=87; studentNumber++){
 // TASK 5: Vowel Checker: Create a function that takes a character as input. Use an if-else statement chain (or a series of if-else statements) to check if the character is a vowel (a, e, i, o, u) and return "Vowel" if true. Otherwise, return "Consonant" or "Not a letter" (handle non-letter characters).
 
 // TASK 6: Write a function that calulates the total number claps in a factorial patern. The function takes a number as an argument e.g. 5 and logs the total number of claps e.g. 15
+
 // TASK 7: Print the multiplication table.
+
